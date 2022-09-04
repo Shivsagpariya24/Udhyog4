@@ -1,0 +1,30 @@
+	body {
+        font-family: Calibri;
+    }
+    .form {
+        margin-top:-1%;
+        margin-left: 3%;
+        margin-right: 1%;
+    }
+    label {
+        font-weight: bold;
+    }
+ 
+    .submit{
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 10%;
+        font-weight: bold;
+    }
+    .abc {
+        text-decoration: none;
+        color: white;
+    }
+    .abc:hover {
+        text-decoration-line: none;
+        color: white;
+    }
